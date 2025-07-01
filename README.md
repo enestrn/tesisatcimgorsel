@@ -1,33 +1,33 @@
 # tesisatcimgorsel
-Yazılım Mühendisliği lisans eğitimimi, gerçek bir problemi çözmeyi amaçlayan ve beni geliştiren bir bitirme projesiyle tamamladım.
-
-💡 Tesisatçım, su, elektrik ve doğalgaz gibi tesisat hizmetlerine ihtiyaç duyan kullanıcılarla profesyonel tesisatçıları bir araya getiren iOS tabanlı bir mobil uygulamadır. Amacım, geleneksel hizmet sürecini dijitalleştirerek hem kullanıcılar hem de hizmet sağlayıcılar için güvenli, şeffaf ve hızlı bir platform sunmaktı.
-
-🚀 Kullanılan Teknolojiler:
-SwiftUI & MVVM
-Firebase (Auth, Firestore, Storage, FCM, Cloud Functions)
-JavaScript (Admin Paneli), TypeScript (Bildirimler)
+Yazılım Mühendisliği lisans eğitimimi, gerçek bir problemi çözmeyi amaçlayan ve beni geliştiren bir bitirme projesiyle tamamladım.  
+  
+💡 Tesisatçım, su, elektrik ve doğalgaz gibi tesisat hizmetlerine ihtiyaç duyan kullanıcılarla profesyonel tesisatçıları bir araya getiren iOS tabanlı bir mobil uygulamadır. Amacım, geleneksel hizmet sürecini dijitalleştirerek hem kullanıcılar hem de hizmet sağlayıcılar için güvenli, şeffaf ve hızlı bir platform sunmaktı.  
+  
+🚀 Kullanılan Teknolojiler:  
+SwiftUI & MVVM  
+Firebase (Auth, Firestore, Storage, FCM, Cloud Functions)  
+JavaScript (Admin Paneli), TypeScript (Bildirimler)  
 
 📱 Projem şu temel modüllerden oluşmaktadır:
-🔻 Kullanıcı Yönetimi ve Kimlik Doğrulama
- Firebase Auth altyapısıyla kullanıcılar (müşteri veya tesisatçı olarak) kayıt olabilir, giriş yapabilir ve rollerine uygun arayüzlere yönlendirilir.
-🔻 Profil Yönetimi
- Kullanıcılar, profil bilgilerini güncelleyebilir; tesisatçılar ise sertifikalarını yükleyip uzmanlık alanlarını belirtebilir.
-🔻 Tesisatçı Keşfi ve Listeleme
- Müşteriler, konum ve uzmanlık filtresi ile tesisatçıları listeleyebilir; detaylı profillerini puan, yorum, sertifika ve fotoğraflarla inceleyebilir.
-🔻 Randevu Sistemi
- Müşteriler randevu talebinde bulunabilir, tesisatçılar bu taleplere teklif sunar. Müşteri onayı ile süreç başlar ve tamamlandığında hizmet değerlendirilir.
-🔻 Gerçek Zamanlı Mesajlaşma
- Uygulama içi birebir sohbet altyapısıyla müşteri ve tesisatçı arasında anlık iletişim sağlanır.
-🔻 Değerlendirme Sistemi
- Müşteriler, aldıkları hizmet sonrası tesisatçılara puan ve yorum bırakabilir. Bu geri bildirimler profil sayfalarında herkese açık şekilde listelenir.
-🔻 Admin Paneli (Web)
- JavaScript ile geliştirilen bu panel üzerinden admin; tesisatçı başvurularını, belgeleri ve sistemdeki etkinliği kontrol eder, onaylar.
+🔻 Kullanıcı Yönetimi ve Kimlik Doğrulama  
+ Firebase Auth altyapısıyla kullanıcılar (müşteri veya tesisatçı olarak) kayıt olabilir, giriş yapabilir ve rollerine uygun arayüzlere yönlendirilir.  
+🔻 Profil Yönetimi  
+ Kullanıcılar, profil bilgilerini güncelleyebilir; tesisatçılar ise sertifikalarını yükleyip uzmanlık alanlarını belirtebilir.  
+🔻 Tesisatçı Keşfi ve Listeleme  
+ Müşteriler, konum ve uzmanlık filtresi ile tesisatçıları listeleyebilir; detaylı profillerini puan, yorum, sertifika ve fotoğraflarla inceleyebilir.  
+🔻 Randevu Sistemi  
+ Müşteriler randevu talebinde bulunabilir, tesisatçılar bu taleplere teklif sunar. Müşteri onayı ile süreç başlar ve tamamlandığında hizmet değerlendirilir.  
+🔻 Gerçek Zamanlı Mesajlaşma  
+ Uygulama içi birebir sohbet altyapısıyla müşteri ve tesisatçı arasında anlık iletişim sağlanır.  
+🔻 Değerlendirme Sistemi  
+ Müşteriler, aldıkları hizmet sonrası tesisatçılara puan ve yorum bırakabilir. Bu geri bildirimler profil sayfalarında herkese açık şekilde listelenir.  
+🔻 Admin Paneli (Web)  
+ JavaScript ile geliştirilen bu panel üzerinden admin; tesisatçı başvurularını, belgeleri ve sistemdeki etkinliği kontrol eder, onaylar.  
 
-🔧 Projem sayesinde:
-Gerçek zamanlı veri senkronizasyonu, push bildirim sistemi ve modüler mimari üzerinde çalıştım.
-Tasarım ve kullanıcı deneyimi prensiplerini uyguladım.
-Uygulama geliştirmenin yanı sıra bir sistemi uçtan uca kurma deneyimi kazandım.
+🔧 Projem sayesinde:  
+Gerçek zamanlı veri senkronizasyonu, push bildirim sistemi ve modüler mimari üzerinde çalıştım.  
+Tasarım ve kullanıcı deneyimi prensiplerini uyguladım.  
+Uygulama geliştirmenin yanı sıra bir sistemi uçtan uca kurma deneyimi kazandım.  
 
 
 ![Ekran Resmi 2025-06-26 21 00 39](https://github.com/user-attachments/assets/c39be854-ec4f-4bd4-aff4-ba522baf7338)
